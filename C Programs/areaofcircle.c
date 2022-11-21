@@ -19,6 +19,7 @@ void add()
 	scanf("%d",&b);
 	c=a+b;
 	printf("\n Addition of Two Numbers is = %d",c);
+	printf("Welcome");
 }
 	
 }
